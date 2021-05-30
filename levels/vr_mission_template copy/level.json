@@ -1,12 +1,12 @@
 {
-  "title": "Mission Prerequisites",
-  "description": "This journey will take you through gathering all prerequisite tools for building your first Machine Learning model with Python! Buckle in!",
+  "title": "Mission TensorFlow",
+  "description": "This journey will take you through building your first Machine Learning model with Python! Buckle in!",
   "mission_icon": "mission_icon.png",
   "is_mission": true,
   "priority": 1,
   "backgroundMusic": "hackertheme_104771b",
   "backgroundEffect": {
-    "key": "tflow",
+    "key": "tflows",
     "options": {}
   },
   "flavorTextOverrides": {
