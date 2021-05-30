@@ -1,0 +1,16 @@
+{
+  "title": "Final Mission",
+  "description": "This journey will take you through training your first Machine Learning model and then using it! Buckle in!",
+  "mission_icon": "mission_icon.png",
+  "is_mission": true,
+  "priority": 1,
+  "backgroundMusic": "hackertheme_104771b",
+  "backgroundEffect": {
+    "key": "tflows",
+    "options": {}
+  },
+  "flavorTextOverrides": {
+    "bookshelf": "There's nothing like a good book."
+  },
+  "objectives": ["example_objective", "example_objective2"]
+}

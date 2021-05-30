@@ -1,0 +1,8 @@
+{
+  "title": "Train the Neural Network",
+  "description":"The process of training the neural network, where it learns the relationship between the X‘s and Y‘s, is in the model.fit call. Follow the instructions in the next tab and then hit HACK!",
+  "validation_fields": [],
+  "rewards": {
+    "xp": 50
+  }
+}
