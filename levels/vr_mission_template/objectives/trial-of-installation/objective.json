@@ -1,0 +1,15 @@
+{
+  "title": "Trial of Installation: Python",
+  "description": "We will be building our first ML Model using the Python library, TensorFlow. So, let's get started by installing Python 3 or higher from https://www.python.org/downloads/.",
+  "validation_fields": [
+    {
+      "name": "answer1",
+      "type": "text",
+      "placeholder": "type your answer here",
+      "label": "Enter the path where you have installed Python"
+    }
+  ],
+  "rewards": {
+    "xp": 100
+  }
+}

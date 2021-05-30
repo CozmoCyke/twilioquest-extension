@@ -1,12 +1,12 @@
 {
-  "title": "VR Mission Template",
-  "description": "This is an example of how to create a 'training mission' for the VR training environment aboard the Fog Owl!",
+  "title": "Mission TensorFlow",
+  "description": "This journey will take you through building your first Machine Learning model with Python! Buckle in!",
   "mission_icon": "mission_icon.png",
   "is_mission": true,
   "priority": 1,
   "backgroundMusic": "hackertheme_104771b",
   "backgroundEffect": {
-    "key": "vr",
+    "key": "tflow",
     "options": {}
   },
   "flavorTextOverrides": {
