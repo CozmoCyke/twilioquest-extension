@@ -171,7 +171,7 @@
                  "y":356
                 }, 
                 {
-                 "gid":10014,
+                 "gid":11017,
                  "height":24,
                  "id":105,
                  "name":"",
@@ -183,7 +183,7 @@
                  "y":348
                 }, 
                 {
-                 "gid":10014,
+                 "gid":11017,
                  "height":24,
                  "id":106,
                  "name":"",
@@ -195,7 +195,7 @@
                  "y":348
                 }, 
                 {
-                 "gid":10014,
+                 "gid":11017,
                  "height":24,
                  "id":107,
                  "name":"",
@@ -207,7 +207,7 @@
                  "y":430
                 }, 
                 {
-                 "gid":10014,
+                 "gid":11017,
                  "height":24,
                  "id":108,
                  "name":"",
@@ -219,10 +219,10 @@
                  "y":430
                 }, 
                 {
-                 "height":0,
-                 "id":109,
-                 "name":"cedric",
-                 "point":true,
+                 "gid":11019,
+                 "height":32,
+                 "id":110,
+                 "name":"",
                  "properties":[
                         {
                          "name":"conversation",
@@ -230,11 +230,11 @@
                          "value":"cedric"
                         }],
                  "rotation":0,
-                 "type":"npc",
+                 "type":"",
                  "visible":true,
-                 "width":0,
-                 "x":119,
-                 "y":287
+                 "width":32,
+                 "x":116.460881934566,
+                 "y":283.652916073969
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -282,10 +282,10 @@
          "y":0
         }],
  "nextlayerid":44,
- "nextobjectid":110,
+ "nextobjectid":111,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.2",
  "tileheight":24,
  "tilesets":[
         {
@@ -306,8 +306,12 @@
          "source":"..\/..\/..\/..\/.bundled\/tilesets\/TwilioQuestObjects.json"
         }, 
         {
-         "firstgid":10014,
+         "firstgid":11017,
          "source":"..\/..\/..\/tilesets\/MyCustomObjects.json"
+        }, 
+        {
+         "firstgid":11018,
+         "source":"..\/..\/..\/..\/.bundled\/tilesets\/TwilioQuestNPCs.json"
         }],
  "tilewidth":24,
  "type":"map",
